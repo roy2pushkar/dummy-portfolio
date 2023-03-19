@@ -709,6 +709,10 @@ a{
   padding:0 1rem;
   font-size:1.5rem;
 }
+.location{
+  text-align: center;
+  color: #fff;
+}
 /*
   footer section
   */
